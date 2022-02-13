@@ -4,9 +4,17 @@
   "description": "Eleventy Blog Website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx @11ty/eleventy --input=src --serve",
+    "build": "npx @11ty/eleventy --input=src"
   },
-  "keywords": ["blog", "eleventy", "jamstack"],
+  "keywords": [
+    "blog",
+    "eleventy",
+    "jamstack"
+  ],
   "author": "Elizabeth Francisco",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
 }
