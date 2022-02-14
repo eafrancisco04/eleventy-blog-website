@@ -6,7 +6,7 @@
 body {
     font-family: "Nunito", arial, sans-serif;
 
-    background-image: linear-gradient(to bottom right, #CB857C, #F6CBB7);
+    background-image: linear-gradient(to bottom right, #c7796e, #F6CBB7);
     background-color: #FAF7F4;
 }
 .header {
@@ -16,11 +16,10 @@ body {
     justify-content: space-around;
     align-items: center;
     
-    background: rgba( 156, 45, 65, 0.4 );
-    box-shadow: 0 8px 32px 0 rgba(146, 42, 16, 0.37);
+    background-color: transparent;
+    box-shadow: 0 8px 32px 0 rgba(175, 91, 70, 0.15)
     backdrop-filter: blur( 8px );
     -webkit-backdrop-filter: blur( 8px );
-    /* border: 1px solid rgba(252, 236, 236, 0.404); */
 
 }
 section {
@@ -36,21 +35,30 @@ section {
 }
 
 .product {
-    max-height: 500px;
+    max-height: 100vh;
     
-}
-
-img { 
-    max-height: 200px; 
 }
 
 ul {
     list-style: none;
 }
-
 .blogs {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+
+
     background: rgba( 156, 45, 65, 0.4 );
     box-shadow: 0 8px 32px 0 rgba(146, 42, 16, 0.37);
     backdrop-filter: blur( 8px );
     -webkit-backdrop-filter: blur( 8px );
+}
+
+.articles {
+    min-width: 100px;
+    max-width: 100px;
+    max-height: 333px;
+    padding: .5em;
+    border-radius: 5px;
+    text-align: center;
 }
