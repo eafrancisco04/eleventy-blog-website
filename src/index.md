@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Skincare Blog
 layout: "index.njk"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: My first post
+title: Korean 10-Step Skincare
 
 ---
 
