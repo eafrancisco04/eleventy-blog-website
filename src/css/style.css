@@ -17,9 +17,6 @@ body {
     align-items: center;
     
     background-color: transparent;
-    box-shadow: 0 8px 32px 0 rgba(175, 91, 70, 0.15)
-    backdrop-filter: blur( 8px );
-    -webkit-backdrop-filter: blur( 8px );
 
 }
 section {
