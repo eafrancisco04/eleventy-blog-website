@@ -17,13 +17,11 @@
         </ul>
     </header>
 
-    <section>
-        <h2>{{ title }}</h2>
-        <img src="./img/img1.jpg" alt="food" class="product">
-    </section>
-
     <main>
+        <h2>{{ title }}</h2>
+        <section class="preview">
         {{ content | safe }}
+        </section>
 
     </main>
 

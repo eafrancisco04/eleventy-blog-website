@@ -2,9 +2,14 @@
     box-sizing: border-box;
     margin: 0;
     color: #4d141f;
+
 }
 body {
     font-family: "Nunito", arial, sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
 
     background-image: linear-gradient(to bottom right, #c7796e, #F6CBB7);
     background-color: #FAF7F4;
@@ -15,9 +20,27 @@ body {
     padding: 5px;
     justify-content: space-around;
     align-items: center;
+
     
     background-color: transparent;
 
+}
+
+ul {
+    list-style: none;
+}
+
+.articles {
+    display: flex;
+    justify-content: space-around;
+}
+
+.preview-pic {
+    height: 150px;
+}
+/* 
+main {
+    position: fixed;
 }
 section {
     margin: auto;
@@ -28,7 +51,6 @@ section {
     display: flex;
     justify-content: space-around;
 
-    background-image: linear-gradient(to bottom right, #CB857C, #F6CBB7);
 }
 
 .product {
@@ -36,13 +58,11 @@ section {
     
 }
 
-ul {
-    list-style: none;
-}
 .blogs {
     display: flex;
+    min-width: 100vw;
     justify-content: space-around;
-    gap: 10px;
+    gap: 1rem;
 
 
     background: rgba( 156, 45, 65, 0.4 );
@@ -59,3 +79,12 @@ ul {
     border-radius: 5px;
     text-align: center;
 }
+
+.blogs {
+    width: 10%;
+    max-height: 333px;
+    padding: .5em;
+    border-radius: 25px;
+    box-shadow: inset -30px -30px 50px rgba(255, 255, 255, 0.2), inset -1px -5px 5px rgba(13, 39, 80, .2);
+    text-align: center;
+} */

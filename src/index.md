@@ -2,15 +2,14 @@
 title: Skincare Blog
 layout: "index.njk"
 ---
-Hello eleventy people
 
-<ul class="blogs">
+<div class="blogs">
 {% for post in collections.posts %}
-<li class="articles">
-    <!-- <img src=" {{ img }} " alt="skincare" class="product"></img> -->
+<h2 class="articles">
     <a href="{{ post.url }}">
+    <img src="{{ post.data.img}}" class="preview-pic">
     {{ post.data.title }}
     </a>
-</li>
-{% endfor %}
 </ul>
+{% endfor %}
+</div>
