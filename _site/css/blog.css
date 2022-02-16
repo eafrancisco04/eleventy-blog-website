@@ -31,3 +31,7 @@ body {
 ul {
     list-style: none;
 }
+
+img {
+    max-height: 350px;
+}
