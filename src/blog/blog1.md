@@ -1,6 +1,6 @@
 ---
 title: Korean 10-Step Skincare
-img: ./img/img2.jpg
+img: ./img/skincare.jpg
 ---
 
 blh blah posts astugg

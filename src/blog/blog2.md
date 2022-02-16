@@ -1,6 +1,6 @@
 ---
 title: Importance of Sunscreen
-img: img2
+img: ./img/serum.jpg
 ---
 
 blh blah posts astugg
