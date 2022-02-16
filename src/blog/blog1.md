@@ -16,6 +16,8 @@ The step is a cleanser. Contrary to what we know, there are actually two types o
 
 The second step is the toner. More talk about toners and what it does for your skin will be added here. It's not too complicated I think. You'll probably see more talk about why it's one of the most important steps, especially for those who wear makeup.
 
+![lotion](/img/lotion.jpg)
+
 #### Serum
 
 There's more explanation on what a serum is here, what it does, and how to use it. Different kinds of ingredients and their benefits would also be good to add here. Generally, it's a pretty lengthy discussion, so I'll end the list right about here. But you can get an idea of what this post is about now.
