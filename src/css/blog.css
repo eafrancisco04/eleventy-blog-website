@@ -11,6 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     align-content: center;
+    padding-bottom: 2em;
 
     background-image: linear-gradient(#c7796e, #fadfd3);
     background-color: #FAF7F4;
