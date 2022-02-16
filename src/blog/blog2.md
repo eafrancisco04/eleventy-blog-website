@@ -14,9 +14,9 @@ Naturally, this blog is all about why sunscreen is important for your skin. Ther
 Protection from the sun is really the biggest benefit to sunscreen, so it should be on the top of the list. When making listicles, always put the most important one at the top, or at least that's how I feel. What some people do is make the most important one at the end so that readers will stay. However, I think that's crazy, and you will end up losing a lot more readers with this way of organizing your blog posts.
 #### Discoloration
 
-Okay, this one is kinf of cheating since it's also kind of the same as the last bullet point. Sun damage also causes pigmentation and discoloration, which is why you can develop dark spots or patches on your skin that are a different shade. Again, this is kind of a health thing too. But for the sake of having a list, let's make it into its own thing to give you a reason to actually write this <article class=""></article>
+Okay, this one is kind of cheating since it's also kind of the same as the last bullet point. Sun damage also causes pigmentation and discoloration, which is why you can develop dark spots or patches on your skin that are a different shade. Again, this is kind of a health thing too. But for the sake of having a list, let's make it into its own thing to give you a reason to actually write this 
 ![lotion](/img/lotion.jpg)
-#### Serum
+#### Hydration
 
-There's more explanation on what a serum is here, what it does, and how to use it. Different kinds of ingredients and their benefits would also be good to add here. Generally, it's a pretty lengthy discussion, so I'll end the list right about here. But you can get an idea of what this post is about now.
+Excessive sun exposure can increase signs of aging on the skin. This is because moisture is lost because of direct contact with the sun's rays. Sunscreen is an extra layer of protection and helps keep moisture in your face. It also supports the properties of other skincare products you used under it.
 </article>
