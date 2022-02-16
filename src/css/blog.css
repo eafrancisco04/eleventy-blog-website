@@ -6,7 +6,7 @@
 }
 body {
     font-family: "Rubik", arial, sans-serif;
-    height: 100vh;
+    height: 100%;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -31,7 +31,26 @@ body {
 ul {
     list-style: none;
 }
+.blog-title {
+    padding: 2em;
+    font-size: 1.5em;
+}
 
 img {
     max-height: 350px;
+    margin: auto;
+    align-self: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    padding: .5em;
+}
+
+article {
+    margin: auto;
+    padding: 2em;
+    background-color: #FAF7F4;
+    max-width: 60%;
+    text-align: justify;
 }

@@ -4,7 +4,8 @@ img: /img/skincare.jpg
 tag: skincare
 ---
 <img src="/img/skincare.jpg" class="preview-pic">
-        
+
+<article>
 Want to know the secret to having clear skin like all those Kpop idols and actresses that you like? The key here is their complex sknicare routine. It's not just about washing your face, but it also includes a variety of other steps that ensure that your skin is looknig vibrant and youthful all times of the time. Around this part, we're gonna keep talking about stuff that explains why the 10-step skicnare routines by Koreans are a must. Just keep adding more introductory text here until there is a resonable amount.
 
 #### Cleanser
@@ -18,3 +19,4 @@ The second step is the toner. More talk about toners and what it does for your s
 #### Serum
 
 There's more explanation on what a serum is here, what it does, and how to use it. Different kinds of ingredients and their benefits would also be good to add here. Generally, it's a pretty lengthy discussion, so I'll end the list right about here. But you can get an idea of what this post is about now.
+</article>
