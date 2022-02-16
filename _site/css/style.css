@@ -58,14 +58,3 @@ a {
 .preview-pic {
     height: 200px;
 }
-
-/*for blogs*/
-.blog-title {
-    height: 30vh;
-    width:100%;
-    margin: auto;
-    background-image: linear-gradient(#c7796e, #fadfd3);
-    background-color: #FAF7F4;
-
-    text-align: center;
-}
