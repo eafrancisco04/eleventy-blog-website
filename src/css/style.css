@@ -5,7 +5,7 @@
 
 }
 body {
-    font-family: "Nunito", arial, sans-serif;
+    font-family: "Rubik", arial, sans-serif;
     height: 100%;
     margin: auto;
     display: flex;
@@ -39,6 +39,7 @@ h2 {
 a {
     text-decoration:none;
     padding: 5px;
+    font-size: 1.5em;
 }
 .articles {
     width: 100vw;
@@ -51,9 +52,8 @@ a {
     padding: 1rem;
     margin: 1em;
     max-width: 500px;
-    background: rgba( 156, 45, 65, 0.4 );
-    box-shadow: 0 8px 32px 0 rgba(146, 42, 16, 0.37);
-    backdrop-filter: blur( 8px );
+    background: hsla(18, 48%, 89%, 0.816);
+    box-shadow: 4px 5px 15px 0 rgba(156, 45, 65, 0.5);
 }
 .preview-pic {
     height: 200px;
